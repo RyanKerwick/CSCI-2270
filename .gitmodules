@@ -28,3 +28,6 @@
 [submodule "assignment-9-RyanKerwick"]
 	path = assignment-9-RyanKerwick
 	url = https://github.com/cu-csci-2270-spring-2024/assignment-9-RyanKerwick.git
+[submodule "course-project-RyanKerwick"]
+	path = course-project-RyanKerwick
+	url = https://github.com/cu-csci-2270-spring-2024/course-project-RyanKerwick.git
